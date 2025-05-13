@@ -1,0 +1,7 @@
+This project was built off of lab 6.2, so to run the project you only need to replace mb_usb_top  with the sv file here + replace ball.sv with the tetris.sv file
+
+There are no external IPs or anything so you can just run the project after generating the bitstream and using lab62 code for getting keycodes
+
+Use WASD to control blocks (W for rotating and S for quick drop) and everything else is just basic Tetris
+
+Made by mzxu2 and asimm8
