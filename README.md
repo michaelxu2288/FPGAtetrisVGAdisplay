@@ -1,9 +1,5 @@
 # FPGA Multiplayer Tetris on Xilinx Spartan‑7
 
-<p align="center">
-  <img src="docs/hero_image.png" width="500" alt="FPGA Tetris Screenshot"/>
-</p>
-
 A fully‑hardware‑accelerated **Tetris** implementation that marries a *MicroBlaze* soft‑processor with custom SystemVerilog graphics, audio and networking engines—now extended for **two‑player Ethernet play**.
 
 ---
