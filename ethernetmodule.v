@@ -10,11 +10,7 @@
 // ‣ Provides UDP/IPv4 packetizer + depacketizer stubs
 // ‣ AXI4‑Lite slave register file for MicroBlaze configuration
 // ‣ Interrupt lines for RX‑packet‑ready, TX‑done, link status
-// ----------------------------------------------------------------------------
-// NOTE:  This is *illustrative* code – it is *not* synthesizable as‑is.
-//        Many sub‑modules are incomplete and marked TODO.
-//        The goal is to show the hierarchy, interfaces, and typical HDL
-//        constructs you would flesh out during implementation.
+//
 // ============================================================================
 
 `timescale 1ns / 1ps
